@@ -3,6 +3,7 @@
 A full-stack database application simulating Zara's retail operations with customer and manager interfaces. Built with Python and MySQL, the system features an interactive command-line interface that enables customers to manage accounts, place orders, and update payment information, while managers can analyze sales trends, monitor inventory, and make data-driven decisions. Includes complete database design (E-R diagram, relational model, DDL), automated data generation using Faker, trigger-based inventory management with automatic reordering functionality, test data and queries, and comprehensive project documentation.
 
 **Tech Stack:** Python, MySQL, Jupyter Notebook, Pandas, Faker
+
 **Key Features**: Role-based access control, real-time inventory tracking, analytical reporting, transactional order processing
 
 ## Description
