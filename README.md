@@ -1,5 +1,8 @@
 # Zara Database
 
+Retail database modeling Zara's operations with normalized schema design, complex analytical SQL queries for business intelligence, automated inventory triggers, and 10K+ synthetic records for testing.
+
+
 ## Description
 The Zara database includes an E-R diagram, a relational model, data definition language, data generation and population, and a command line. Together, they create a functional interactive database environment. This is a valuable project because it provides a realistic simulation of Zara's core business operations and enables data driven decision making. The command line, where the user interacts with the database, is an accessible platform for customers and managers of Zara. Customers have the option to make a member account, place an order, view order details, add new payment information to their account, and change their personal information. Managers have the ability to view individual store trends, customer trends, overall company trends, and add inventory to the store or warehouse.
 
