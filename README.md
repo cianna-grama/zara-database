@@ -1,4 +1,10 @@
-# Zara Database
+# Zara Database Management System
+
+A full-stack database application simulating Zara's retail operations, developed through complete SDLC from requirements analysis to deployment. Built with Python and MySQL, the system features an interactive command-line interface that enables customers to manage accounts, place orders, and update payment information, while managers can analyze sales trends, monitor inventory, and make data-driven decisions. Includes complete database design (E-R diagram, relational model, DDL), automated data generation using Faker for comprehensive testing, trigger-based inventory management with automatic reordering functionality, test queries for validation, and detailed technical documentation.
+
+**Tech Stack:** Python, MySQL, Jupyter Notebook, Pandas, Faker
+
+**Key Features**: Role-based access control, real-time inventory tracking, analytical reporting, transactional order processing
 
 Retail database modeling Zara's operations with normalized schema design, complex analytical SQL queries for business intelligence, automated inventory triggers, and 10K+ synthetic records for testing.
 
