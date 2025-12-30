@@ -1,12 +1,29 @@
 # Zara Database Management System
 
-A full-stack database application simulating Zara's retail operations, developed through complete SDLC from requirements analysis to deployment. Built with Python and MySQL, the system features an interactive command-line interface that enables customers to manage accounts, place orders, and update payment information, while managers can analyze sales trends, monitor inventory, and make data-driven decisions. Includes complete database design (E-R diagram, relational model, DDL), automated data generation using Faker for comprehensive testing, trigger-based inventory management with automatic reordering functionality, test queries for validation, and detailed technical documentation.
+Comprehensive relational database modeling Zara's retail operations, showcasing database architecture, complex query optimization, and business analytics capabilities. Designed from requirements analysis through implementation and testing following complete SDLC.
 
-**Tech Stack:** Python, MySQL, Jupyter Notebook, Pandas, Faker
+**Database Design & Implementation:**
 
-**Key Features**: Role-based access control, real-time inventory tracking, analytical reporting, transactional order processing
+Architected normalized database schema with 15+ interconnected tables following 3NF principles, modeling relationships between customers, orders, products, inventory, payments, and store locations
+Implemented SQL triggers for automated inventory threshold detection and quantity updates
+Generated 10,000+ synthetic records using Faker with maintained referential integrity across all tables for realistic testing scenarios
 
-Retail database modeling Zara's operations with normalized schema design, complex analytical SQL queries for business intelligence, automated inventory triggers, and 10K+ synthetic records for testing.
+**Advanced SQL & Analytics:**
+
+Developed complex analytical queries aggregating multi-table joins for sales trend analysis, customer behavior patterns, and store-level performance metrics
+Optimized query performance for manager dashboard features including revenue analysis by location, inventory turnover tracking, and customer segmentation
+Created role-based query access enabling transactional operations for customers and business intelligence reporting for managers
+
+**Key Features:**
+
+Interactive CLI with dual interfaces: customer transactions (orders, payments, account management) and manager analytics (KPI reporting, trend analysis)
+Data validation and comprehensive testing suite across all database operations
+Complete technical documentation: E-R diagrams, relational models, DDL scripts, test queries
+
+**Tech Stack**: 
+
+Python, MySQL, Pandas, Faker, Jupyter Notebook
+Skills Demonstrated: Database normalization, relational modeling, complex SQL queries, query optimization, data integrity, business analytics
 
 
 ## Description
